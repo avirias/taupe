@@ -10,6 +10,7 @@ class Ui extends StatefulWidget {
 }
 
 class UiState extends State<Ui> {
+
   bool isAvinashSelected;
 
   @override
